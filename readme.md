@@ -2,7 +2,7 @@ HBO MAX - Clone (estilizado)
 
 Projeto de clone da página da HBO MAX (estilizado).
 Foi utilizado o HTML, CSS,GULP, SASS e Javascript para recriar a página inicial da plataforma de stream Disney+.
-Site hospedado na Vercel: https://clone-disneyplus-mocha-iota.vercel.app/
+Site hospedado na Vercel: https://clone-hbo-max-veqj.vercel.app/#
 
 <img src="./src/images/capa.JPG" atl="capa projeto">
 
