@@ -9,7 +9,7 @@ Foram utilizadas as seguintes tecnologias: o HTML, CSS,GULP, SASS e Javascript p
 
 Site hospedado na Vercel: https://clone-hbo-max-veqj.vercel.app/#
 
-h2>
+<h2>
     Pré-visualização
  </h2>
  
