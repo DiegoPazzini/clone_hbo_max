@@ -3,7 +3,7 @@ HBO MAX - Clone (estilizado)
 <h2>Descrição do Projeto</h2>
  
 Projeto de clone da página da HBO MAX (estilizado).
-Foram utilizadas as seguintes tecnologias: o HTML, CSS,GULP, SASS e Javascript para recriar a página inicial da plataforma de stream HBO MAX.
+Foram utilizadas as seguintes tecnologias: o HTML, CSS,GULP, SASS e Javascript para recriar a página inicial da plataforma de stream HBO MAX. Nesse projeto também se fez uso da metodologia BEM (Block Element Modifier) para boas práticas na estruturação do código CSS.
 
 <h2>Visualização Online</h2>
 
